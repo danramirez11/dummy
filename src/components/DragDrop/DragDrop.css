@@ -1,0 +1,8 @@
+.dragdrop{
+    display: flex;
+}
+
+.dragdrop div{
+    border: 1px solid #000;
+    width: 50%;
+}
